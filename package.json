@@ -1,0 +1,16 @@
+{
+  "name": "hello-vercel",
+  "version": "1.0.0",
+  "description": "Serverless Function Hello World w/ Vercel",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/node": "^2.9.6",
+    "vercel": "^28.16.2"
+  }
+}
